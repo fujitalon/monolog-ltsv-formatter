@@ -1,5 +1,5 @@
 {
-    "name": "hikaeme/monolog-ltsv-formatter",
+    "name": "fujitalon/monolog-ltsv-formatter",
     "description": "LTSV Formatter for Monolog",
     "license": "MIT",
     "authors": [
