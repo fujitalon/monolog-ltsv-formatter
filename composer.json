@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hikaeme\\Monolog\\Formatter\\": "src/"
+            "Fujitalon\\Monolog\\Formatter\\": "src/"
         }
     },
     "require-dev": {
